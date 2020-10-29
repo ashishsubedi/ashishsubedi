@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm Ashish. I love programming, problem solving tasks, machine learning and Deep learning and I am learning to play violin.
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on machine learning and computer vision stuffs
 - 🌱 I’m currently learning machine learning in production system, computer vision, backend
 - 💬 Ask me about Machine Learning, Computer Vision, Node js API
