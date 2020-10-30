@@ -6,5 +6,6 @@
 - 📫 How to reach me: [Facebook](https://www.facebook.com/ashishsubedi.fb) [LinkedIn](https://www.linkedin.com/in/ashish-s-4692b810b/) [Gmail](mailto:iamashishsubedi@gmail.com)
 - ⚡ Fun fact: I started my coding journey at the age of 12.
 
-Here is random walk. Enjoy :)
+Here is [random walk](https://github.com/ashishsubedi/random-walk). Enjoy :)
 ![Random walk using p5](https://github.com/ashishsubedi/random-walk/blob/main/image.gif?raw=true)
+
