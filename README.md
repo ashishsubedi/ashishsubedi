@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ashish. I love programming, problem solving tasks, backend, machine learning and deep learning.
 - 🔭 I’m currently working on django backend, machine learning and computer vision stuffs
-- 🌱 I’m currently learning machine learning in production system, computer vision, backend
-- 💬 Ask me about Machine Learning, Computer Vision, Node js API, Django
+- 🌱 I’m currently learning machine learning in production system, distributed system, scalable systems.
+- 💬 Ask me about Machine Learning, Computer Vision, Node js API, Django, Distributed Systems, Scalable Systems.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/ashishsubedi.fb) [LinkedIn](https://www.linkedin.com/in/ashish-s-4692b810b/) [Gmail](mailto:iamashishsubedi@gmail.com)
 - ⚡ Fun fact: I started my coding journey at the age of 14.
 
