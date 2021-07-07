@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ashish. I love programming, problem solving tasks, backend, machine learning and deep learning.
+### Hi there 👋, I'm Ashish. I love programming, problem solving tasks, and have fun.
 - 🔭 I’m currently working on backend, machine learning, computer vision.
 - 🌱 I’m currently learning machine learning in production system, distributed system, scalable systems, neural search.
 - 💬 Ask me about Machine Learning, Computer Vision, Node js API, Django, Distributed Systems, Scalable Systems.
